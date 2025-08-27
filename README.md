@@ -1,0 +1,2 @@
+# sql-assistant-streamlit-langchain
+This web application is designed to assist users in generating SQL queries and receiving natural language responses based on those queries. It integrates Google Generative AI for natural language understanding and utilizes LangChain to construct SQL query chains. The backend connects to a PostgreSQL database, enabling seamless interaction between user inputs and database queries.
